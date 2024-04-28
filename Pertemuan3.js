@@ -15,3 +15,5 @@ const dataDiri = {
 const {Name, TTL, umur}=dataDiri;
 
 console.log(Name);
+
+
